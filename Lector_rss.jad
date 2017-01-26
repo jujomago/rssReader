@@ -1,0 +1,7 @@
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Josue Mancilla G.
+MIDlet-Jar-URL: http://parti.shiranet.com/archivos/Lector_rss.jar
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-1: principal,,principal
+MicroEdition-Profile: MIDP-1.0
+MIDlet-Name: Lector_XML
